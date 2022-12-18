@@ -1,0 +1,5 @@
+git init
+npm init -y
+npm instl express dotenv
+npm run dev
+how to set default terminal to bash
